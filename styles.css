@@ -1,0 +1,155 @@
+body{
+
+
+  color: white;
+
+}
+.block {
+  background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+  height: 70%;
+  width: 100%;
+  margin: 0%;
+}
+
+
+.image{
+  display: inline-block;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 7rem;
+  margin-top: 1
+
+}
+ .imgpadd{
+
+   padding-right: 5rem;
+   color: white;
+   display: inline-block;
+ }
+ .imagepic{
+    height:40rem;
+   width: 100;
+   border-radius:100%;
+   padding-left: 4rem;
+   padding-top: 1rem;
+
+ }
+ .imagepic:hover{
+
+ }
+ p{
+   margin: 3rem;
+   padding-top: 2rem;
+   padding-right: 2rem;
+   font-family: 'Dancing Script', cursive;
+   font-size: 1.5rem;
+
+ }
+h1 {
+  text-align: center;
+   margin: 15px;
+   color: white;
+   font-size: 5rem;
+   font-family: 'Lobster', cursive;
+  }
+
+.media{
+  margin: 0 auto;
+  text-align: center;
+  width: 10%;
+  border-radius: 100%
+}
+h2{
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+  text-align: center;
+  margin-top:3rem;
+}
+
+#gallery{
+  color : #e8505b;
+  text-align: center;
+  margin-bottom: 4rem;
+  margin-left: 1rem;
+}
+.galeerycls{
+  margin-top: 0.5rem;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+}
+#academics{
+  color: black;
+  margin-left: 1rem;
+
+
+}
+.card-text{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.mod{
+  margin-bottom: 40px;
+}
+
+.btn-light:hover{
+  background-color: black;
+  color:white;
+}
+
+/* // footer */
+
+#footer {
+  background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+  margin-top: 5%;
+  padding: 7% 15%;
+  text-align: center;
+  margin-bottom: 2%;
+}
+.fottercls{
+  margin:0;
+}
+.social-icon {
+  margin: 10px 10px;
+}
+
+
+/* western html */
+
+.mypic{
+  width: 20%;
+  height: 20%;
+}
+
+
+div.gallery1 {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery1:hover {
+  border: 1px solid #777;
+}
+
+div.gallery1 img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
